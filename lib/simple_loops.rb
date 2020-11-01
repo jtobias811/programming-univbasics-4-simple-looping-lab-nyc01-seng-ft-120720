@@ -10,7 +10,7 @@ end
 def loop_message_n_times(message, integer)
 end
 
-def output_array
+def output_array(array)
 end
 
 def return_string_array
