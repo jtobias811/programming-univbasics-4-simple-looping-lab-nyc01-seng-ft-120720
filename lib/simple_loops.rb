@@ -13,7 +13,6 @@ def loop_message_n_times(message, limit)
     puts message
     count += 1
   end
-  end
 end
 
 def output_array(array)
